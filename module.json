@@ -1,0 +1,10 @@
+{
+	"disableAutoUpdate": false,
+    "options": {"niceName": "popoBrawl", "guiName": "popo-brawler-demo"},
+    "name": "popo-brawler-demo",
+    "author": "Snug",
+    "description": "Turns any brawler you log into to a popori brawler",
+    "version": "1",
+	"servers": ["https://raw.githubusercontent.com/Snugglez/popo-brawler-demo/master/"],
+	"supportUrl": "https://github.com/Snugglez/popo-brawler-demo/blob/master/README.md"
+}
